@@ -1,0 +1,7 @@
+*.vsp
+*.psess
+*.png
+*.vsd
+*.zip
+/Chat_v1/bin
+/Chat_v1/obj

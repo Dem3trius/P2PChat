@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Chat_v1.BaseServer">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Chat_v1.BaseServer.ServerExecErrorHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Server classes\BaseServer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Chat_v1.BaseServer.RecievedMessageHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Server classes\BaseServer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Chat_v1.BaseServer.ConnectionProblemHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Server classes\BaseServer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AQEAAAAgACABAAAAAEIAgAAAACAEAAEQIAgAAIAAAAA=</HashCode>
+      <FileName>Server classes\BaseServer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Chat_v1.ServiceServer">
+    <Position X="3.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Server classes\ServiceServer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chat_v1.Server_classes.TextServer">
+    <Position X="3.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Server classes\TextServer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
